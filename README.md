@@ -36,10 +36,12 @@ When starting on a new project, make sure you have the required nodejs version i
 This starter kit follows Acta's development principles:
 
 ### Code Workflow
-- **Main = Production** - Everyone can push to main
-- **PR for Everything** - Always open PRs for squash + merge
+- **Dev Branch Integration** - All development work goes to `dev` branch
+- **Main = Production** - `main` branch represents production-ready code
+- **PR for Everything** - Always open PRs to `dev` for squash + merge
+- **Regular Releases** - Promote `dev` to `main` every few days
 - **Own Your Mistakes** - Be thorough and reliable
-- **No Staging** - Local development or production
+- **No Staging** - Local development, dev branch, or production
 
 ### Task Management
 - All work lives in Linear
