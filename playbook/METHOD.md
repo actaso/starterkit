@@ -23,21 +23,15 @@ We assume you understand product-market fit ([watch this if not](https://www.yco
 ### How to Find PMF (The Engine):
 
 1. **Define your value proposition** (we help X do Y by providing Z)
-
 2. **Build the complete funnel** (landing page → signup → onboarding → activation → retention) and track every metric
-
 3. **Add an onboarding survey** with open text fields for richer data:
    - Who signed up?
    - Why did they sign up?
    - Phone number for follow-up
-
 4. **Implement a paywall with free trial** to validate your repeatable business model
-
 5. **Schedule customer calls** within days of signup
-
-6. **Listen for specifics**—focus on the root of their problems, not surface complaints
-
-7. **Iterate after ~30 signups**—revisit your value proposition and formulate a hypothesis to test
+6. **Listen for specifics** - focus on the root of their problems, not surface complaints
+7. **Iterate after ~30 signups** - revisit your value proposition and formulate a hypothesis to test
 
 
 
