@@ -16,3 +16,8 @@
 
 ## Research
 - great starter kit from theo (https://github.com/t3-oss/create-t3-turbo); only thing i don't like is supabase postgres
+
+## Gotchas
+- Ensure proper versioning of node etc (to ensure quick dev start)
+- Process around fixing the default setup
+- npm install -g pnpm@latest-10 // install nvm
