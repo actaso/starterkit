@@ -3,6 +3,7 @@ For web and mobile projects we have a default stack of technology we prefer to u
 
 ## Tech used
 - NextJs for the web application + api backend (deployed through vercel)
+- Tailwind for styling, shadcn for default components
 - Expo for native mobile apps
 - Tauri for native desktop apps
 - Posthog for analytics
@@ -13,5 +14,5 @@ For web and mobile projects we have a default stack of technology we prefer to u
 - Firebase (if there is a good reason for us to use this)
 - Clerk or BetterAuth for auth
 
-## Others
+## Other
 - We work in monorepos.
