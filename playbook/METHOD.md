@@ -8,9 +8,9 @@ Think of your startup as an engine. You can map everything required to reach you
 
 Consider your startup engine in terms of generations, with growth metrics as thresholds between stages. There are roughly 3 generations:
 
-**0.** Finding initial PMF (0 → $10k MRR)  
-**1.** Scaling your core market ($10k → $1M MRR)  
-**2.** Scaling to new markets ($1M → $10M+ MRR)
+0. Finding initial PMF (0 → $10k MRR)  
+1. Scaling your core market ($10k → $1M MRR)  
+2. Scaling to new markets ($1M → $10M+ MRR)
 
 These are rough approximations. Don't treat them as gospel—use them as orientation for your mental model.
 
