@@ -55,4 +55,7 @@ This starter kit follows Acta's development principles:
 - [ ] CHANGELOG.md updated
 - [ ] Lints and builds pass
 
+### Technical Rules
+- See `product/TECHNICAL_RULES.md` for engineering rules (e.g., prefer tiny PRs)
+
 Built with ❤️ by Acta, based on the excellent [T3 Turbo](https://github.com/t3-oss/create-t3-turbo) template.

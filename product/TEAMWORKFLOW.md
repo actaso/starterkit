@@ -19,6 +19,8 @@ This document outlines how we work internally at Acta in the product teams. This
 - Always open a PR to `dev` that you squash + merge for a clean commit history.
 - Release PRs from `dev` to `main` should include comprehensive changelog updates.
 
+See also: `product/TECHNICAL_RULES.md` for guidelines on PR size and structure (prefer tiny PRs).
+
 ## Release process
 - **Regular releases** - We promote `dev` to `main` every few days (typically 2-3 days).
 - **Release responsibility** - Any team member can initiate a release by creating a PR from `dev` to `main`.
